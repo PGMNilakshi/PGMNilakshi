@@ -1,4 +1,4 @@
-# 👩‍💻 P.G.M. Nilakshi
+#  P.G.M. Nilakshi
 
 🎓 Undergraduate | 💻 Software Technology (B.Tech.) | 🚀 Aspiring Software Developer  
 
