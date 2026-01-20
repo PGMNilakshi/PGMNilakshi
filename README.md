@@ -69,7 +69,7 @@ I am passionate about **web development, software engineering, and AI-assisted d
 
 - **UoVT Student Management Web System (2025)**  
   Tried **MVC architecture with AI tools** (ChatGPT, Claude AI) + manual code enhancements  
-  🔗 [Demo Link](http://uovtsm.infinityfreeapp.com/)  
+  
 
 ---
 
