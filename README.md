@@ -38,6 +38,7 @@ I am passionate about **web development, software engineering, and AI-assisted d
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="wamp/apache" width="50" height="50"/>
+  <img src="https://logo.svgcdn.com/devicon/mongodb-original.svg" alt="mongodb" width="50" height="50" />
 </p>
 
 ⚙️ Tools & IDEs  
