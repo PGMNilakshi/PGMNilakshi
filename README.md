@@ -84,8 +84,6 @@ I am passionate about **web development, software engineering, and AI-assisted d
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
 
 ## 🔹 Connect with Me
 - 📧 Email: **pgmnilakshi.it@gmail.com**  
