@@ -25,7 +25,7 @@ I am passionate about **web development, software engineering, and AI-assisted d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React JS" width={50}  height={50} />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React JS" width="50"  height="50" />
 
 </p>
 
@@ -34,7 +34,7 @@ I am passionate about **web development, software engineering, and AI-assisted d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50"/>
-  <img src="https://static.cdnlogo.com/logos/g/35/golang.svg" alt="Golang" width={50} height={50} />
+  <img src="https://static.cdnlogo.com/logos/g/35/golang.svg" alt="Golang" width="50" height="50" />
 </p>
 
 🗄️ Databases & Servers  
