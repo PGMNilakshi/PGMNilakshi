@@ -55,7 +55,14 @@ I am passionate about **web development, software engineering, and AI-assisted d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
 </p>
 
+🔹 AI Tools & Assisted Development
 
+- Antigravity AI
+- Claude AI
+- Gemini AI
+- Github Copilot
+- ChatGPT
+  
 ## 🔹 Projects
 
 - **[Technocomputers (2021)](http://technocomputers.infinityfreeapp.com/)**  
@@ -76,6 +83,9 @@ I am passionate about **web development, software engineering, and AI-assisted d
   
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
 
 ## 🔹 Connect with Me
 - 📧 Email: **pgmnilakshi.it@gmail.com**  
