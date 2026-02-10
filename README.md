@@ -1,6 +1,6 @@
 #  P.G.M. Nilakshi
 
-🎓 Undergraduate | 💻 Software Technology (B.Tech.) | 🚀 Aspiring Software Developer  
+🎓 Undergraduate | 💻 Software Technology (B.Tech.) | 🚀 Aspiring Software Engineer | Full Stack Developer  
 
 Welcome to my GitHub! I am currently pursuing a **Bachelor of Technology (B.Tech.) in Software Technology** at the **University of Vocational Technology (UoVT)**, Sri Lanka.  
 I am passionate about **web development, software engineering, and AI-assisted development**, always eager to learn and explore new technologies.
@@ -53,6 +53,9 @@ I am passionate about **web development, software engineering, and AI-assisted d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50"/>
+  
+
 </p>
 
 🔹 AI Tools & Assisted Development
